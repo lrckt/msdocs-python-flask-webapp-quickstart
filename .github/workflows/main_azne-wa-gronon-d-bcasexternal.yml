@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'azne-wa-gronon-d-bcasexternal'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A13919775B1E4DF888AA0785BE5C394E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_83C8D492CB054760BBA150A3928BC81A }}
